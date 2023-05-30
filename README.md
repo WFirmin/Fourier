@@ -1,2 +1,2 @@
 # Fourier
-Experimentation with Fourier Series
+I created this to experiment with Fourier Series outside of class.  The code opens a window that you can draw on with your mouse (or touch screen).  The drawing must be made in one go -- once the pen is lifted, the drawing is locked in.  The discrete fourier transform is applied, and the coefficients are used to display the sum of functions that trace out the drawing.  The first is excluded for aesthetics since it is stationary.
